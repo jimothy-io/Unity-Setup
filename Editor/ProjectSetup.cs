@@ -7,7 +7,7 @@ using UnityEditor;
 using UnityEditor.PackageManager;
 using UnityEngine;
 
-namespace Setup
+namespace Jimothy.Setup
 {
     public static class ProjectSetup
     {
