@@ -1,0 +1,13 @@
+{
+  "name": "io.jimothy.unitysetup",
+  "displayName": "Unity Setup Automation",
+  "description": "Automates the boring stuff I'm sick of doing every time I start a new project.",
+  "unity": "6000.0",
+  "version": "1.0.0",
+  "category": "editor extensions",
+  "documentationUrl": "https://github.com/itsJimothy/Unity-Setup/blob/main/Documentation~/UnitySetup.md",
+  "author": {
+    "name": "Jimothy",
+    "url": "https://www.jimothy.io"
+  }
+}
