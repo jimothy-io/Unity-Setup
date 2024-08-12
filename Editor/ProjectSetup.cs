@@ -30,33 +30,34 @@ namespace Setup
         }
 
         [MenuItem("Tools/Setup/Import Essential Assets")]
+        [MenuItem("Tools/Setup/Import Essential Assets")]
         public static void ImportEssentialAssets()
         {
-            // Editor Coroutines - Editor Auto Save dependency
+            // Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
             // Assets.ImportAsset("Editor Coroutines.unitypackage",
             //     "Marijn Zwemmer/Editor ExtensionsUtilities");
         
-            // Editor Console Pro
+            // Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
             Assets.ImportAsset("Editor Console Pro.unitypackage",
                 "FlyingWorm/Editor ExtensionsSystem");
 
-            // Selection History
+            // Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
             Assets.ImportAsset("Selection History.unitypackage",
                 "Staggart Creations/Editor ExtensionsUtilities");
 
-            // Color Studio
+            // Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
             Assets.ImportAsset("Color Studio.unitypackage",
                 "Kronnect/Editor ExtensionsPainting");
 
-            // Audio Preview Tool
+            // Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
             Assets.ImportAsset("Audio Preview Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsAudio");
 
-            // Editor Auto Save
+            // Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
             // Assets.ImportAsset("Editor Auto Save.unitypackage",
             //     "IntenseNation/Editor ExtensionsUtilities");
 
-            // Better Hierarchy
+            // Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
             Assets.ImportAsset("Better Hierarchy.unitypackage",
                 "Toaster Head/Editor ExtensionsUtilities");
         }
