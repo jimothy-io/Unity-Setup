@@ -35,7 +35,10 @@ Features the following menu items:
 - Tools/Setup/Fetch .gitignore
   - Fetches my personal `.gitignore` from a gist I keep updated. Assumes you're using the folder structure from `Tools/Setup/Create Folders`.
 ---
-- Tools/Setup/Specific Packages/Import Odin Inspector and Serializer
+- Tools/Setup/Specific Assets/Import Odin Inspector and Serializer
   - Imports Odin Inspector and Serializer (make sure you own the asset and have downloaded it to your system):
     - https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
-
+---
+- Tools/Setup/Specific Assets/Import DOTween Pro
+  - Import DOTween Pro (make sure you own the asset and have downloaded it to your system):
+    - https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416

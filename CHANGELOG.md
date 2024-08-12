@@ -1,3 +1,14 @@
+
+## [1.1.0]
+### Minor additions, improvements and reorganizing
+- Change the following name for accuracy:
+  - Tools/Setup/Specific Packages/Import Odin Inspector and Serializer
+  - to
+  - Tools/Setup/Specific Assets/Import Odin Inspector and Serializer
+- Add the following menu items:
+  - Tools/Setup/Specific Assets/Import DOTween Pro
+
+
 ## [1.0.0] - 2024-08-12
 ### First Release
 - Adds the following menu items:
