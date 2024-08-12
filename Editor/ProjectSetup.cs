@@ -28,8 +28,7 @@ namespace Setup
             AssetDatabase.DeleteAsset("Assets/Readme.asset");
             AssetDatabase.Refresh();
         }
-
-        [MenuItem("Tools/Setup/Import Essential Assets")]
+        
         [MenuItem("Tools/Setup/Import Essential Assets")]
         public static void ImportEssentialAssets()
         {
@@ -62,7 +61,7 @@ namespace Setup
                 "Toaster Head/Editor ExtensionsUtilities");
         }
 
-        [MenuItem("Tools/Setup/Import Odin Inspector and Serializer")]
+        [MenuItem("Tools/Setup/Specific Packages/Import Odin Inspector and Serializer", false, -999)]
         public static void ImportOdin()
         {
             // Odin Inspector
