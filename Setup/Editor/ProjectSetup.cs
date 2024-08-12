@@ -61,12 +61,20 @@ namespace Jimothy.Setup
                 "Toaster Head/Editor ExtensionsUtilities");
         }
 
-        [MenuItem("Tools/Setup/Specific Packages/Import Odin Inspector and Serializer", false, -999)]
+        [MenuItem("Tools/Setup/Specific Assets/Import Odin Inspector and Serializer", false, -999)]
         public static void ImportOdin()
         {
             // Odin Inspector
             Assets.ImportAsset("Odin Inspector and Serializer.unitypackage",
                 "Sirenix/Editor ExtensionsSystem");
+        }
+        
+        [MenuItem("Tools/Setup/Specific Assets/Import DOTween Pro", false, -999)]
+        public static void ImportDOTweenPro()
+        {
+            // DOTween Pro
+            Assets.ImportAsset("DOTween Pro.unitypackage",
+                "Demigiant/Editor ExtensionsVisual Scripting");
         }
 
         [MenuItem("Tools/Setup/Install Essential Packages")]
