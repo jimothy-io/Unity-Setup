@@ -1,5 +1,5 @@
 
-## [1.1.0]
+## [1.1.0] - 2024-08-12
 ### Minor additions, improvements and reorganizing
 - Change the following name for accuracy:
   - Tools/Setup/Specific Packages/Import Odin Inspector and Serializer
