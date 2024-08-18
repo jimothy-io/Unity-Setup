@@ -1,3 +1,7 @@
+## [1.1.1] - 2024-08-18
+### Adds package to essential packages
+- Adds the following package to essential packages:
+  - Eflatun.SceneReference
 
 ## [1.1.0] - 2024-08-12
 ### Minor additions, improvements and reorganizing

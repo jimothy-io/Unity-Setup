@@ -82,6 +82,7 @@ namespace Jimothy.Setup
             {
                 "com.unity.cinemachine", // Cinemachine
                 "git+https://github.com/itsJimothy/Unity-Utilities.git", // Jimothy's Unity Utilities
+                "git+https://github.com/starikcetin/Eflatun.SceneReference.git#upm", // Eflatun Scene Reference
             });
         }
     

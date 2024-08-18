@@ -24,6 +24,7 @@ Features the following menu items:
   - Downloads and installs the following packages:
     - Cinemachine: com.unity.cinemachine
     - Jimothy's Unity Utilities: https://github.com/itsJimothy/Unity-Utilities.git
+    - Eflatun.SceneReference: https://github.com/starikcetin/Eflatun.SceneReference
 ---
 - Tools/Setup/Remove Junk Packages
   - Removes the following pre-installed packages:
