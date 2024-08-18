@@ -73,6 +73,14 @@ namespace Jimothy.Setup
             // DOTween Pro
             Assets.ImportAsset("DOTween Pro.unitypackage",
                 "Demigiant/Editor ExtensionsVisual Scripting");
+        }        [MenuItem("Tools/Setup/Specific Assets/Import DOTween Pro", false, -999)]
+        
+        [MenuItem("Tools/Setup/Specific Assets/Import Animancer Pro", false, -999)]
+        public static void ImportAnimancer()
+        {
+            // Animancer Pro
+            Assets.ImportAsset("Animancer Pro.unitypackage",
+                "Kybernetik/ScriptingAnimation");
         }
 
         [MenuItem("Tools/Setup/Install Essential Packages")]

@@ -43,3 +43,8 @@ Features the following menu items:
 - Tools/Setup/Specific Assets/Import DOTween Pro
   - Import DOTween Pro (make sure you own the asset and have downloaded it to your system):
     - https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
+---
+- Tools/Setup/Specific Assets/Import Animancer Pro
+  - Import Animancer Pro (make sure you own the asset and have downloaded it to your system):
+    - https://assetstore.unity.com/packages/tools/animation/animancer-pro-293522
+---

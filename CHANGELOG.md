@@ -1,3 +1,8 @@
+## [1.0.3] - 2024-08-18
+### Adds asset to specific asset imports
+- Adds the following asset to specific asset imports:
+  - Animancer Pro
+
 ## [1.0.2] - 2024-08-18
 ### Adds package to essential packages
 - Adds the following package to essential packages:
