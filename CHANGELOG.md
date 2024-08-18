@@ -1,9 +1,9 @@
-## [1.1.1] - 2024-08-18
+## [1.0.2] - 2024-08-18
 ### Adds package to essential packages
 - Adds the following package to essential packages:
   - Eflatun.SceneReference
 
-## [1.1.0] - 2024-08-12
+## [1.0.1] - 2024-08-12
 ### Minor additions, improvements and reorganizing
 - Change the following name for accuracy:
   - Tools/Setup/Specific Packages/Import Odin Inspector and Serializer
