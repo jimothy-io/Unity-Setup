@@ -40,6 +40,11 @@ Features the following menu items:
   - Imports Odin Inspector and Serializer (make sure you own the asset and have downloaded it to your system):
     - https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
 ---
+- Tools/Setup/Specific Assets/Import Odin Validator
+  - Requires Odin Inspector and Serializer.
+  - Imports Odin Validator (make sure you own the asset and have downloaded it to your system):
+    - https://assetstore.unity.com/packages/tools/utilities/odin-validator-227861
+---
 - Tools/Setup/Specific Assets/Import DOTween Pro
   - Import DOTween Pro (make sure you own the asset and have downloaded it to your system):
     - https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416

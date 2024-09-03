@@ -67,7 +67,15 @@ namespace Jimothy.Setup
                 "Sirenix/Editor ExtensionsSystem");
         }
         
-        [MenuItem("Tools/Setup/Specific Assets/Import DOTween Pro", false, -999)]
+        [MenuItem("Tools/Setup/Specific Assets/Import Odin Validator", false, -998)]
+        public static void ImportOdinValidator()
+        {
+            // Odin Inspector
+            Assets.ImportAsset("Odin Validator.unitypackage",
+                "Sirenix/Editor ExtensionsUtilities");
+        }
+        
+        [MenuItem("Tools/Setup/Specific Assets/Import DOTween Pro", false, -990)]
         public static void ImportDOTweenPro()
         {
             // DOTween Pro
@@ -75,7 +83,7 @@ namespace Jimothy.Setup
                 "Demigiant/Editor ExtensionsVisual Scripting");
         }
         
-        [MenuItem("Tools/Setup/Specific Assets/Import Animancer Pro", false, -999)]
+        [MenuItem("Tools/Setup/Specific Assets/Import Animancer Pro", false, -980)]
         public static void ImportAnimancer()
         {
             // Animancer Pro

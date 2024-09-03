@@ -1,11 +1,17 @@
+## [1.0.4] - 2024-09-03
+### Adds asset to specific asset imports
+- Fix duplicate menu item warning.
+- Add the following asset to specific asset imports:
+  - Odin Validator
+
 ## [1.0.3] - 2024-08-18
 ### Adds asset to specific asset imports
-- Adds the following asset to specific asset imports:
+- Add the following asset to specific asset imports:
   - Animancer Pro
 
 ## [1.0.2] - 2024-08-18
 ### Adds package to essential packages
-- Adds the following package to essential packages:
+- Add the following package to essential packages:
   - Eflatun.SceneReference
 
 ## [1.0.1] - 2024-08-12
@@ -20,7 +26,7 @@
 
 ## [1.0.0] - 2024-08-12
 ### First Release
-- Adds the following menu items:
+- Add the following menu items:
   - Tools/Setup/Create Folders
   - Tools/Setup/Import Essential Assets
   - Tools/Setup/Install Essential Packages
