@@ -1,3 +1,7 @@
+## [1.0.5] - 2024-11-03
+### Fix build errors
+- Changes assembly definition platform to Editor to prevent build errors.
+
 ## [1.0.4] - 2024-09-03
 ### Adds asset to specific asset imports
 - Fix duplicate menu item warning.

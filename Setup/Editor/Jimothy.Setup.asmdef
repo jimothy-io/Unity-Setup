@@ -2,7 +2,9 @@
     "name": "Setup",
     "rootNamespace": "Jimothy",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
