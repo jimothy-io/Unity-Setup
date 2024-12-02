@@ -1,3 +1,9 @@
+## [1.0.6] - 2024-12-02
+### Adds assets to essential asset imports
+- Add the following asset to specific asset imports:
+    - Grabbit
+    - Asset Inventory 2
+
 ## [1.0.5] - 2024-11-03
 ### Fix build errors
 - Changes assembly definition platform to Editor to prevent build errors.

@@ -26,14 +26,14 @@ namespace Jimothy.Setup
             AssetDatabase.DeleteAsset("Assets/Readme.asset");
             AssetDatabase.Refresh();
         }
-        
+
         [MenuItem("Tools/Setup/Import Essential Assets")]
         public static void ImportEssentialAssets()
         {
             // Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
             // Assets.ImportAsset("Editor Coroutines.unitypackage",
             //     "Marijn Zwemmer/Editor ExtensionsUtilities");
-        
+
             // Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
             Assets.ImportAsset("Editor Console Pro.unitypackage",
                 "FlyingWorm/Editor ExtensionsSystem");
@@ -57,6 +57,14 @@ namespace Jimothy.Setup
             // Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
             Assets.ImportAsset("Better Hierarchy.unitypackage",
                 "Toaster Head/Editor ExtensionsUtilities");
+
+            // Grabbit: https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
+            Assets.ImportAsset("Grabbit - Editor Physics Transforms.unitypackage",
+                "Jungle/Editor ExtensionsUtilities");
+
+            // Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
+            Assets.ImportAsset("Asset Inventory 2.unitypackage",
+                "Impossible Robert/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Odin Inspector and Serializer", false, -999)]
@@ -66,7 +74,7 @@ namespace Jimothy.Setup
             Assets.ImportAsset("Odin Inspector and Serializer.unitypackage",
                 "Sirenix/Editor ExtensionsSystem");
         }
-        
+
         [MenuItem("Tools/Setup/Specific Assets/Import Odin Validator", false, -998)]
         public static void ImportOdinValidator()
         {
@@ -74,7 +82,7 @@ namespace Jimothy.Setup
             Assets.ImportAsset("Odin Validator.unitypackage",
                 "Sirenix/Editor ExtensionsUtilities");
         }
-        
+
         [MenuItem("Tools/Setup/Specific Assets/Import DOTween Pro", false, -990)]
         public static void ImportDOTweenPro()
         {
@@ -82,7 +90,7 @@ namespace Jimothy.Setup
             Assets.ImportAsset("DOTween Pro.unitypackage",
                 "Demigiant/Editor ExtensionsVisual Scripting");
         }
-        
+
         [MenuItem("Tools/Setup/Specific Assets/Import Animancer Pro", false, -980)]
         public static void ImportAnimancer()
         {
@@ -101,16 +109,16 @@ namespace Jimothy.Setup
                 "git+https://github.com/starikcetin/Eflatun.SceneReference.git#upm", // Eflatun Scene Reference
             });
         }
-    
+
         [MenuItem("Tools/Setup/Remove Junk Packages")]
         public static void RemoveJunkPackages()
         {
             Packages.RemovePackages(new[]
             {
-                "com.unity.collab-proxy",       // Unity's Version Control - Bloated, use git instead
-                "com.unity.visualscripting",    // Visual Scripting
-                "com.unity.ide.visualstudio",   // Visual Studio Editor - This is a Rider household
-                "com.unity.timeline",           // Timeline
+                "com.unity.collab-proxy", // Unity's Version Control - Bloated, use git instead
+                "com.unity.visualscripting", // Visual Scripting
+                "com.unity.ide.visualstudio", // Visual Studio Editor - This is a Rider household
+                "com.unity.timeline", // Timeline
             });
         }
 

@@ -19,6 +19,8 @@ Features the following menu items:
   - Commented out due to Unity 6 compatibility issues:
     - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
+  - Grabbit: https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
+  - Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
 ---
 - Tools/Setup/Install Essential Packages
   - Downloads and installs the following packages:
