@@ -12,7 +12,7 @@ Features the following menu items:
 - Tools/Setup/Import Essential Assets
 - Imports the following assets (make sure you own them and have downloaded them downloaded to your system):
   - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
-  - Selection History Pro: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
+  - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
   - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
   - Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
   - Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
