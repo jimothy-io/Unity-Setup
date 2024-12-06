@@ -1,3 +1,10 @@
+## [1.0.7] - 2024-12-06
+### Removes asset from essential asset imports, moves asset to specific asset imports
+- Remove the following asset from essential asset imports:
+    - Selection History
+- Move the following asset to specific asset imports:
+    - Grabbit
+
 ## [1.0.6] - 2024-12-02
 ### Adds assets to essential asset imports
 - Add the following asset to specific asset imports:

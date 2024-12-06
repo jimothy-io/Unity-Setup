@@ -3,7 +3,7 @@
   "displayName": "Unity Setup Automation",
   "description": "Automates the boring stuff I'm sick of doing every time I start a new project.",
   "unity": "6000.0",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "category": "editor extensions",
   "documentationUrl": "https://github.com/itsJimothy/Unity-Setup/blob/main/Documentation~/UnitySetup.md",
   "author": {

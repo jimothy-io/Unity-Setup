@@ -39,8 +39,8 @@ namespace Jimothy.Setup
                 "FlyingWorm/Editor ExtensionsSystem");
 
             // Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
-            Assets.ImportAsset("Selection History.unitypackage",
-                "Staggart Creations/Editor ExtensionsUtilities");
+            // Assets.ImportAsset("Selection History.unitypackage",
+            //     "Staggart Creations/Editor ExtensionsUtilities");
 
             // Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
             Assets.ImportAsset("Color Studio.unitypackage",
@@ -57,10 +57,6 @@ namespace Jimothy.Setup
             // Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
             Assets.ImportAsset("Better Hierarchy.unitypackage",
                 "Toaster Head/Editor ExtensionsUtilities");
-
-            // Grabbit: https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
-            Assets.ImportAsset("Grabbit - Editor Physics Transforms.unitypackage",
-                "Jungle/Editor ExtensionsUtilities");
 
             // Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
             Assets.ImportAsset("Asset Inventory 2.unitypackage",
@@ -97,6 +93,14 @@ namespace Jimothy.Setup
             // Animancer Pro
             Assets.ImportAsset("Animancer Pro.unitypackage",
                 "Kybernetik/ScriptingAnimation");
+        }
+        
+        [MenuItem("Tools/Setup/Specific Assets/Grabbit", false, -900)]
+        public static void ImportGrabbit()
+        {
+            // Grabbit: https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
+            Assets.ImportAsset("Grabbit - Editor Physics Transforms.unitypackage",
+                "Jungle/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Install Essential Packages")]

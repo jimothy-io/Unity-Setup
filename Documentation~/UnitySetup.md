@@ -12,14 +12,13 @@ Features the following menu items:
 - Tools/Setup/Import Essential Assets
 - Imports the following assets (make sure you own them and have downloaded them downloaded to your system):
   - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
-  - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
   - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
   - Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
   - Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
   - Commented out due to Unity 6 compatibility issues:
+    - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
     - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
-  - Grabbit: https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
   - Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
 ---
 - Tools/Setup/Install Essential Packages
@@ -55,3 +54,6 @@ Features the following menu items:
   - Import Animancer Pro (make sure you own the asset and have downloaded it to your system):
     - https://assetstore.unity.com/packages/tools/animation/animancer-pro-293522
 ---
+- Tools/Setup/Specific Assets/Import Grabbit
+  - Import Grabbit (make sure you own the asset and have downloaded it to your system):
+    - https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
