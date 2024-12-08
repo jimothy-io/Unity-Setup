@@ -35,7 +35,10 @@ Features the following menu items:
     - Timeline - Not a fan. Add back if needed.
 ---
 - Tools/Setup/Fetch .gitignore
-  - Fetches my personal `.gitignore` from a gist I keep updated. Assumes you're using the folder structure from `Tools/Setup/Create Folders`.
+  - Fetches my personal Unity `.gitignore` from a gist I keep updated. Assumes you're using the folder structure from `Tools/Setup/Create Folders`.
+----
+- Tools/Setup/Fetch .gitattributes
+  - Fetches my personal Unity `.gitattributes` from a gist I keep updated. Assumes you're using the folder structure from `Tools/Setup/Create Folders`.
 ---
 - Tools/Setup/Specific Assets/Import Odin Inspector and Serializer
   - Imports Odin Inspector and Serializer (make sure you own the asset and have downloaded it to your system):

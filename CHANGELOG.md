@@ -1,3 +1,8 @@
+## [1.0.8] - 2024-12-08
+### Adds menu item to fetch .gitattributes from gist
+- Add the following menu item:
+  - Tools/Setup/Fetch .gitattributes
+
 ## [1.0.7] - 2024-12-06
 ### Removes asset from essential asset imports, moves asset to specific asset imports
 - Remove the following asset from essential asset imports:

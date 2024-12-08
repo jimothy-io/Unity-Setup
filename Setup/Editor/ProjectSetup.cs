@@ -94,7 +94,7 @@ namespace Jimothy.Setup
             Assets.ImportAsset("Animancer Pro.unitypackage",
                 "Kybernetik/ScriptingAnimation");
         }
-        
+
         [MenuItem("Tools/Setup/Specific Assets/Grabbit", false, -900)]
         public static void ImportGrabbit()
         {
@@ -132,11 +132,24 @@ namespace Jimothy.Setup
             const string url =
                 "https://gist.githubusercontent.com/itsJimothy/06b39890e0b9e9676fcb8f6265424fa9/raw/3fddae40b78ffe49b96f94f6cc22005f2688ae25/.gitignore";
 
-            var content = await Imports.FetchGitignore(url);
+            var content = await Imports.FetchGist(url);
 
             await File.WriteAllTextAsync(".gitignore", content);
 
             Debug.Log("Fetched .gitignore.");
+        }
+
+        [MenuItem("Tools/Setup/Fetch .gitattributes")]
+        public static async void FetchGitattributes()
+        {
+            const string url =
+                "https://gist.githubusercontent.com/itsJimothy/270a377f000448979d38b697116faf34/raw/14f23b26b7e14692fc2f6422cafb1410ce2a130d/.gitattributes";
+
+            var content = await Imports.FetchGist(url);
+
+            await File.WriteAllTextAsync(".gitattributes", content);
+
+            Debug.Log("Fetched .gitattributes.");
         }
 
         [MenuItem("Tools/Setup/All of the below", false, 99)]
@@ -144,6 +157,7 @@ namespace Jimothy.Setup
         {
             CreateFolders();
             FetchGitignore();
+            FetchGitattributes();
             ImportEssentialAssets();
             InstallEssentialPackages();
             RemoveJunkPackages();

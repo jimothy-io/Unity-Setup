@@ -7,7 +7,7 @@ namespace Jimothy.Setup
 {
     internal static class Imports
     {
-        public static async Task<string> FetchGitignore(string url)
+        public static async Task<string> FetchGist(string url)
         {
             using var client = new HttpClient();
             var response = await client.GetAsync(url);
@@ -17,7 +17,7 @@ namespace Jimothy.Setup
             }
             catch (Exception e)
             {
-                Debug.LogError("Failed to fetch .gitignore: " + e.Message);
+                Debug.LogError("Failed to fetch gist: " + e.Message);
             }
 
             var content = await response.Content.ReadAsStringAsync();
