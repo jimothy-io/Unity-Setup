@@ -61,6 +61,10 @@ namespace Jimothy.Setup
             // Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
             Assets.ImportAsset("Asset Inventory 2.unitypackage",
                 "Impossible Robert/Editor ExtensionsUtilities");
+            
+            // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
+            Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
+                "Julien Foucher/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Odin Inspector and Serializer", false, -999)]

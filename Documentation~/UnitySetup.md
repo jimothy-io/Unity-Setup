@@ -20,6 +20,7 @@ Features the following menu items:
     - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
   - Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
+  - Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
 ---
 - Tools/Setup/Install Essential Packages
   - Downloads and installs the following packages:

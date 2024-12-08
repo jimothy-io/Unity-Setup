@@ -1,3 +1,8 @@
+## [1.0.9] - 2024-12-08
+### Adds asset to essential asset imports
+- Add the following asset to essential asset imports:
+  - Logwin
+
 ## [1.0.8] - 2024-12-08
 ### Adds menu item to fetch .gitattributes from gist
 - Add the following menu item:
