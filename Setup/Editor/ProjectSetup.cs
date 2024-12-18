@@ -65,6 +65,11 @@ namespace Jimothy.Setup
             // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
             Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
                 "Julien Foucher/Editor ExtensionsUtilities");
+            
+            // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
+            Assets.ImportAsset(
+                "Better Transform - Size Notes Global-Local workspace child parent transform.unitypackage",
+                "Tiny Giant Studio/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Odin Inspector and Serializer", false, -999)]

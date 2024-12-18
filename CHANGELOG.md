@@ -1,3 +1,8 @@
+## [1.0.10] - 2024-12-18
+### Adds asset to essential asset imports
+- Add the following asset to essential asset imports:
+    - Better Transform
+
 ## [1.0.9] - 2024-12-08
 ### Adds asset to essential asset imports
 - Add the following asset to essential asset imports:
