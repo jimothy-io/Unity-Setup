@@ -46,10 +46,6 @@ namespace Jimothy.Setup
             Assets.ImportAsset("Color Studio.unitypackage",
                 "Kronnect/Editor ExtensionsPainting");
 
-            // Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
-            Assets.ImportAsset("Audio Preview Tool.unitypackage",
-                "Warped Imagination/Editor ExtensionsAudio");
-
             // Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
             // Assets.ImportAsset("Editor Auto Save.unitypackage",
             //     "IntenseNation/Editor ExtensionsUtilities");
@@ -57,19 +53,35 @@ namespace Jimothy.Setup
             // Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
             Assets.ImportAsset("Better Hierarchy.unitypackage",
                 "Toaster Head/Editor ExtensionsUtilities");
-
-            // Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
-            Assets.ImportAsset("Asset Inventory 2.unitypackage",
-                "Impossible Robert/Editor ExtensionsUtilities");
-            
-            // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
-            Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
-                "Julien Foucher/Editor ExtensionsUtilities");
             
             // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
             Assets.ImportAsset(
                 "Better Transform - Size Notes Global-Local workspace child parent transform.unitypackage",
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
+        }
+
+        [MenuItem("Tools/Setup/Specific Assets/Import Asset Inventory 2", false, -600)]
+        public static void ImportAssetInventory()
+        {
+            // Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
+            Assets.ImportAsset("Asset Inventory 2.unitypackage",
+                "Impossible Robert/Editor ExtensionsUtilities");
+        }
+        
+        [MenuItem("Tools/Setup/Specific Assets/Import Audio Preview Tool", false, -700)]
+        public static void ImportAudioPreviewTool()
+        {
+            // Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
+            Assets.ImportAsset("Audio Preview Tool.unitypackage",
+                "Warped Imagination/Editor ExtensionsAudio");
+        }
+
+        [MenuItem("Tools/Setup/Specific Assets/Import Logwin", false, -800)]
+        public static void ImportLogwin()
+        {
+            // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
+            Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
+                "Julien Foucher/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Odin Inspector and Serializer", false, -999)]

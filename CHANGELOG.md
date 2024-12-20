@@ -1,3 +1,10 @@
+## [1.0.11] - 2024-12-20
+### Reorganizes asset imports
+- Move the following assets from essential to specific imports:
+  - Logwin (using deprecated API)
+  - Audio Preview Tool
+  - Asset Inventory 2
+
 ## [1.0.10] - 2024-12-18
 ### Adds asset to essential asset imports
 - Add the following asset to essential asset imports:

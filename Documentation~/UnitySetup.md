@@ -13,14 +13,11 @@ Features the following menu items:
 - Imports the following assets (make sure you own them and have downloaded them downloaded to your system):
   - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
   - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
-  - Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
   - Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
   - Commented out due to Unity 6 compatibility issues:
     - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
     - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
-  - Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
-  - Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
   - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
 ---
 - Tools/Setup/Install Essential Packages
@@ -43,22 +40,24 @@ Features the following menu items:
   - Fetches my personal Unity `.gitattributes` from a gist I keep updated. Assumes you're using the folder structure from `Tools/Setup/Create Folders`.
 ---
 - Tools/Setup/Specific Assets/Import Odin Inspector and Serializer
-  - Imports Odin Inspector and Serializer (make sure you own the asset and have downloaded it to your system):
-    - https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
+  - https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
 ---
 - Tools/Setup/Specific Assets/Import Odin Validator
   - Requires Odin Inspector and Serializer.
-  - Imports Odin Validator (make sure you own the asset and have downloaded it to your system):
-    - https://assetstore.unity.com/packages/tools/utilities/odin-validator-227861
+  - https://assetstore.unity.com/packages/tools/utilities/odin-validator-227861
 ---
 - Tools/Setup/Specific Assets/Import DOTween Pro
-  - Import DOTween Pro (make sure you own the asset and have downloaded it to your system):
-    - https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
+  - https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
 ---
 - Tools/Setup/Specific Assets/Import Animancer Pro
-  - Import Animancer Pro (make sure you own the asset and have downloaded it to your system):
-    - https://assetstore.unity.com/packages/tools/animation/animancer-pro-293522
+  - https://assetstore.unity.com/packages/tools/animation/animancer-pro-293522
 ---
 - Tools/Setup/Specific Assets/Import Grabbit
-  - Import Grabbit (make sure you own the asset and have downloaded it to your system):
-    - https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
+  - https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
+---
+- Tools/Setup/Specific Assets/Import Asset Inventory 2
+  - https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
+- Tools/Setup/Specific Assets/Import Audio Preview Tool
+  - https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
+- Tools/Setup/Specific Assets/Import Logwin
+  - https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
