@@ -1,3 +1,8 @@
+## [1.0.12] - 2024-12-22
+### Adds Beautify 3 to specific asset imports
+- Add the following asset to specific asset imports:
+  - Beautify 3
+
 ## [1.0.11] - 2024-12-20
 ### Reorganizes asset imports
 - Move the following assets from essential to specific imports:

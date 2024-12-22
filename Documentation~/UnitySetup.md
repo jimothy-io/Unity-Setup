@@ -57,7 +57,13 @@ Features the following menu items:
 ---
 - Tools/Setup/Specific Assets/Import Asset Inventory 2
   - https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
+---
 - Tools/Setup/Specific Assets/Import Audio Preview Tool
   - https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
+---
 - Tools/Setup/Specific Assets/Import Logwin
   - https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
+---
+- Tools/Setup/Specific Assets/Import Beautify 3
+  - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-3-advanced-post-processing-233073
+---

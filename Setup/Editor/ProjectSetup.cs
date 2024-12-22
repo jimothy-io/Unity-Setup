@@ -60,6 +60,14 @@ namespace Jimothy.Setup
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
         }
 
+        [MenuItem("Tools/Setup/Specific Assets/Import Beautify 3", false, -500)]
+        public static void ImportBeautify()
+        {
+            // Beautify 3: https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-3-advanced-post-processing-233073
+            Assets.ImportAsset("Beautify 3 - Advanced Post Processing.unitypackage",
+                "Kronnect/ShadersFullscreen Camera Effects");
+        }
+        
         [MenuItem("Tools/Setup/Specific Assets/Import Asset Inventory 2", false, -600)]
         public static void ImportAssetInventory()
         {
