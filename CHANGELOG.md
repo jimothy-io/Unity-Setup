@@ -1,3 +1,10 @@
+## [1.0.13] - 2025-01-20
+### Adds assets to specific and essential asset imports
+- Add the following asset to specific asset imports:
+  - Final IK
+- Add the following asset to essential asset imports:
+  - UI Preview
+
 ## [1.0.12] - 2024-12-22
 ### Adds Beautify 3 to specific asset imports
 - Add the following asset to specific asset imports:

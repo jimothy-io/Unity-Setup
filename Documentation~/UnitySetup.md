@@ -19,6 +19,7 @@ Features the following menu items:
     - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
   - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
+  - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
 ---
 - Tools/Setup/Install Essential Packages
   - Downloads and installs the following packages:
@@ -66,4 +67,7 @@ Features the following menu items:
 ---
 - Tools/Setup/Specific Assets/Import Beautify 3
   - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-3-advanced-post-processing-233073
+---
+- Tools/Setup/Specific Assets/Import Final IK
+  - https://assetstore.unity.com/packages/tools/animation/final-ik-14290
 ---
