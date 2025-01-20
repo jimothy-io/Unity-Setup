@@ -58,6 +58,10 @@ namespace Jimothy.Setup
             Assets.ImportAsset(
                 "Better Transform - Size Notes Global-Local workspace child parent transform.unitypackage",
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
+            
+            // UI Preview for Prefabs and Canvases: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
+            Assets.ImportAsset("UI Preview for Prefabs and Canvases.unitypackage",
+                "KAMGAM/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Beautify 3", false, -500)]
