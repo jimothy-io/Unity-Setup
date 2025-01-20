@@ -64,6 +64,13 @@ namespace Jimothy.Setup
                 "KAMGAM/Editor ExtensionsUtilities");
         }
 
+        [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]
+        public static void ImportFinalIk()
+        {
+            // Final IK: https://assetstore.unity.com/packages/tools/animation/final-ik-14290
+            Assets.ImportAsset("Final IK.unitypackage", "RootMotion/Editor ExtensionsAnimation");
+        }
+
         [MenuItem("Tools/Setup/Specific Assets/Import Beautify 3", false, -500)]
         public static void ImportBeautify()
         {
