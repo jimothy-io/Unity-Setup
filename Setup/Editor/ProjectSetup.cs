@@ -49,10 +49,6 @@ namespace Jimothy.Setup
             // Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
             // Assets.ImportAsset("Editor Auto Save.unitypackage",
             //     "IntenseNation/Editor ExtensionsUtilities");
-
-            // Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
-            Assets.ImportAsset("Better Hierarchy.unitypackage",
-                "Toaster Head/Editor ExtensionsUtilities");
             
             // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
             Assets.ImportAsset(
@@ -62,6 +58,30 @@ namespace Jimothy.Setup
             // UI Preview for Prefabs and Canvases: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
             Assets.ImportAsset("UI Preview for Prefabs and Canvases.unitypackage",
                 "KAMGAM/Editor ExtensionsUtilities");
+            
+            // vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
+            Assets.ImportAsset("vRuler.unitypackage",
+                "kubacho lab/Editor ExtensionsUtilities");
+            
+            // vFolders 2: https://assetstore.unity.com/packages/tools/utilities/vfolders-2-255470
+            Assets.ImportAsset("vFolders 2.unitypackage",
+                "kubacho lab/Editor ExtensionsUtilities");
+            
+            // vInspector 2: https://assetstore.unity.com/packages/tools/utilities/vinspector-2-252297
+            Assets.ImportAsset("vInspector 2.unitypackage",
+                "kubacho lab/Editor ExtensionsUtilities");
+            
+            // vHierarchy 2: https://assetstore.unity.com/packages/tools/utilities/vhierarchy-2-253397
+            Assets.ImportAsset("vHierarchy 2.unitypackage",
+                "kubacho lab/Editor ExtensionsUtilities");
+            
+            // vTabs 2: https://assetstore.unity.com/packages/tools/utilities/vtabs-2-253396
+            Assets.ImportAsset("vTabs 2.unitypackage",
+                "kubacho lab/Editor ExtensionsUtilities");
+            
+            // vFavorites 2: https://assetstore.unity.com/packages/tools/utilities/vfavorites-2-263643
+            Assets.ImportAsset("vFavorites 2.unitypackage",
+                "kubacho lab/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]
