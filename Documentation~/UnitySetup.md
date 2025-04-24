@@ -13,13 +13,19 @@ Features the following menu items:
 - Imports the following assets (make sure you own them and have downloaded them downloaded to your system):
   - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
   - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
-  - Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
   - Commented out due to Unity 6 compatibility issues:
     - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
     - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
   - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
   - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
+  - vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
+  - vFolders 2: https://assetstore.unity.com/packages/tools/utilities/vfolders-2-255470
+  - vInspector 2: https://assetstore.unity.com/packages/tools/utilities/vinspector-2-252297
+  - vHierarchy 2: https://assetstore.unity.com/packages/tools/utilities/vhierarchy-2-253397
+  - vTabs 2: https://assetstore.unity.com/packages/tools/utilities/vtabs-2-253396
+  - vFavorites 2: https://assetstore.unity.com/packages/tools/utilities/vfavorites-2-263643
+
 ---
 - Tools/Setup/Install Essential Packages
   - Downloads and installs the following packages:

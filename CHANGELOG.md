@@ -1,3 +1,15 @@
+## [1.0.14] - 2025-04-24
+### Adds and removes assets from essential asset imports
+- Add the following assets to essential asset imports:
+  - vRuler
+  - vFolders 2
+  - vInspector 2
+  - vHierarchy 2
+  - vTabs 2
+  - vFavorites 2
+- Remove the follow asset from essential asset imports:
+  - Better Hierarchy
+
 ## [1.0.13] - 2025-01-20
 ### Adds assets to specific and essential asset imports
 - Add the following asset to specific asset imports:
