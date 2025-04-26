@@ -1,3 +1,8 @@
+## [1.0.15] - 2025-04-26
+### Re-adds removed asset to essential asset imports
+- Add the following asset to essential asset imports:
+  - Better Hierarchy
+
 ## [1.0.14] - 2025-04-24
 ### Adds and removes assets from essential asset imports
 - Add the following assets to essential asset imports:
