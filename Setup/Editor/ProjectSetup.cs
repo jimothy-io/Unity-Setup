@@ -94,6 +94,14 @@ namespace Jimothy.Setup
             // Final IK: https://assetstore.unity.com/packages/tools/animation/final-ik-14290
             Assets.ImportAsset("Final IK.unitypackage", "RootMotion/Editor ExtensionsAnimation");
         }
+        
+        [MenuItem("Tools/Setup/Specific Assets/Import UMotion Pro", false, -910)]
+        public static void ImportUMotionPro()
+        {
+            // UMotion Pro: https://assetstore.unity.com/packages/tools/animation/umotion-pro-animation-editor-95991
+            Assets.ImportAsset("UMotion Pro - Animation Editor.unitypackage",
+                "Soxware Interactive/Editor ExtensionsAnimation");
+        }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Beautify 3", false, -500)]
         public static void ImportBeautify()

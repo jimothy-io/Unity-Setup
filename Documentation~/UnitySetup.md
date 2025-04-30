@@ -112,3 +112,8 @@ Features the following menu items:
     - https://assetstore.unity.com/packages/tools/animation/final-ik-14290
 
 ---
+
+- Tools/Setup/Specific Assets/Import UMotion Pro
+    - https://assetstore.unity.com/packages/tools/animation/umotion-pro-animation-editor-95991
+
+---

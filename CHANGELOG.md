@@ -1,3 +1,8 @@
+## [1.0.16] - 2025-04-30
+### Adds asset to specific asset imports
+- Add the following asset to specific asset imports:
+  - UMotion Pro
+
 ## [1.0.15] - 2025-04-26
 ### Re-adds removed asset to essential asset imports
 - Add the following asset to essential asset imports:
