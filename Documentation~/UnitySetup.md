@@ -8,7 +8,7 @@ Features the following menu items:
     - Creates a project root folder `_Project` with the following subfolders:
         - Art, Animations, Ignore, Imports, Input, Prefabs
     - Moves the `Scenes` folder into the `_Project` folder.
-    - Deletes the `TutorialInfo` folder and the the Readme asset.
+    - Deletes the `TutorialInfo` folder and the Readme asset.
     - Moves and renames the `InputSystem_Actions.inputactions` file to `_Project/Input`.
 
 ---
