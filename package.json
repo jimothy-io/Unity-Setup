@@ -1,11 +1,13 @@
 {
-  "name": "io.jimothy.unitysetup",
-  "displayName": "Unity Setup Automation",
-  "description": "Automates the boring stuff I'm sick of doing every time I start a new project.",
+  "name": "io.jimothy.junitysetup",
+  "displayName": "jUnitySetup",
+  "description": "Automates Unity project setup and configuration.",
   "unity": "6000.0",
-  "version": "1.0.16",
-  "category": "editor extensions",
-  "documentationUrl": "https://github.com/itsJimothy/Unity-Setup/blob/main/Documentation~/UnitySetup.md",
+  "version": "1.1.0",
+  "documentationUrl": "https://github.com/itsJimothy/Unity-Setup/blob/main/Documentation~/index.md",
+  "dependencies": {
+    "io.jimothy.junityutilities": "git+https://github.com/itsJimothy/Unity-Utilities.git#^1.7.0"
+  },
   "author": {
     "name": "Jimothy",
     "url": "https://www.jimothy.io"
