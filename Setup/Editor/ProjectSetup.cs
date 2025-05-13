@@ -181,7 +181,8 @@ namespace Jimothy.Setup
             Packages.InstallPackages(new[]
             {
                 "com.unity.cinemachine", // Cinemachine
-                "git+https://github.com/starikcetin/Eflatun.SceneReference.git#4.1.1", // Eflatun Scene Reference
+                "git+https://github.com/itsJimothy/Unity-Utilities.git", // Jimothy's Unity Utilities
+                "git+https://github.com/starikcetin/Eflatun.SceneReference.git#upm", // Eflatun Scene Reference
             });
         }
 

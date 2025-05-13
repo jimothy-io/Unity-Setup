@@ -36,7 +36,7 @@ Features the following menu items:
 - Tools/Setup/Install Essential Packages
     - Downloads and installs the following packages:
         - Cinemachine: com.unity.cinemachine
-        - Jimothy's Unity Utilities: https://github.com/itsJimothy/Unity-Utilities.git
+        - jUnityUtilities: https://github.com/itsJimothy/Unity-Utilities.git
         - Eflatun.SceneReference: https://github.com/starikcetin/Eflatun.SceneReference
 
 ---

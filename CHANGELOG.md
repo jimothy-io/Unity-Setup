@@ -1,11 +1,15 @@
 ## [Unreleased]
 
+## [1.1.1] - 2025-05-13
+### Fixes dependency issue.
+- Fix a dependency issue caused by Unity not allowing git dependencies in package.json.
+
 ---
 
 ## [1.1.0] - 2025-05-12
 ### Renames package, updates documentation, and cleans up essential package imports
-- Renames this package from `Unity Setup Automation` to `jUnitySetup`.
-- Moves `jUnityUtilities` from essential package imports to dependencies.
+- Rename this package from `Unity Setup Automation` to `jUnitySetup`.
+- Move `jUnityUtilities` from essential package imports to dependencies.
 
 ---
 
