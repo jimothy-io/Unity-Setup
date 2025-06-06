@@ -1,5 +1,13 @@
 ## [Unreleased]
 
+---
+
+## [1.1.2] - 2025-06-06
+### Fixes minor bugs
+- Update gist URL for fetching `.gitignore`.
+
+---
+
 ## [1.1.1] - 2025-05-13
 ### Fixes dependency issue.
 - Fix a dependency issue caused by Unity not allowing git dependencies in package.json.

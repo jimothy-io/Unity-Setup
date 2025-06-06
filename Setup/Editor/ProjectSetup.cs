@@ -202,7 +202,7 @@ namespace Jimothy.Setup
         public static async void FetchGitignore()
         {
             const string url =
-                "https://gist.githubusercontent.com/itsJimothy/06b39890e0b9e9676fcb8f6265424fa9/raw/3fddae40b78ffe49b96f94f6cc22005f2688ae25/.gitignore";
+                "https://gist.githubusercontent.com/jimothy-io/06b39890e0b9e9676fcb8f6265424fa9/raw/3fddae40b78ffe49b96f94f6cc22005f2688ae25/.gitignore";
 
             var content = await Imports.FetchGist(url);
 
