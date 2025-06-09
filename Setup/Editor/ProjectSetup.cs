@@ -86,6 +86,10 @@ namespace Jimothy.Setup
             // vFavorites 2: https://assetstore.unity.com/packages/tools/utilities/vfavorites-2-263643
             Assets.ImportAsset("vFavorites 2.unitypackage",
                 "kubacho lab/Editor ExtensionsUtilities");
+
+            // Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
+            Assets.ImportAsset("Wingman - Your Inspectors Best Friend.unitypackage",
+                "Kyle Rhoads/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]
@@ -94,7 +98,7 @@ namespace Jimothy.Setup
             // Final IK: https://assetstore.unity.com/packages/tools/animation/final-ik-14290
             Assets.ImportAsset("Final IK.unitypackage", "RootMotion/Editor ExtensionsAnimation");
         }
-        
+
         [MenuItem("Tools/Setup/Specific Assets/Import UMotion Pro", false, -910)]
         public static void ImportUMotionPro()
         {
