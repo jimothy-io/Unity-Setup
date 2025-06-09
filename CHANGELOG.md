@@ -2,6 +2,13 @@
 
 ---
 
+## [1.1.3] - 2025-06-09
+### Adds asset to essential asset imports
+- Add the following asset to essential asset imports:
+  - Wingman
+
+---
+
 ## [1.1.2] - 2025-06-06
 ### Fixes minor bugs
 - Update gist URL for fetching `.gitignore`.

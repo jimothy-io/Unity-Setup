@@ -30,6 +30,7 @@ Features the following menu items:
     - vHierarchy 2: https://assetstore.unity.com/packages/tools/utilities/vhierarchy-2-253397
     - vTabs 2: https://assetstore.unity.com/packages/tools/utilities/vtabs-2-253396
     - vFavorites 2: https://assetstore.unity.com/packages/tools/utilities/vfavorites-2-263643
+    - Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
 
 ---
 
