@@ -17,10 +17,9 @@ Features the following menu items:
 - Imports the following assets (make sure you own them and have downloaded them downloaded to your system):
     - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
     - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
-    - Commented out due to Unity 6 compatibility issues:
-        - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
-        - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
-        - Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
+    - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
+    - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
+    - Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
     - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
     - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
     - Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
@@ -96,11 +95,6 @@ Features the following menu items:
 
 - Tools/Setup/Specific Assets/Import Audio Preview Tool
     - https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
-
----
-
-- Tools/Setup/Specific Assets/Import Logwin
-    - https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
 
 ---
 
