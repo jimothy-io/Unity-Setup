@@ -2,6 +2,17 @@
 
 ---
 
+## [1.1.4] - 2025-06-11
+### Re-adds disabled assets to essential asset imports
+- Add the following assets to essential asset imports:
+  - Selection History
+  - Logwin
+  - Editor Auto Save
+- Removes the following assets from specific asset imports:
+  - Logwin
+
+---
+
 ## [1.1.3] - 2025-06-09
 ### Adds asset to essential asset imports
 - Add the following asset to essential asset imports:
