@@ -30,25 +30,21 @@ namespace Jimothy.Setup
         [MenuItem("Tools/Setup/Import Essential Assets")]
         public static void ImportEssentialAssets()
         {
-            // Editor Coroutines (Editor Auto Save dependency): https://assetstore.unity.com/packages/tools/utilities/editor-coroutines-27373
-            // Assets.ImportAsset("Editor Coroutines.unitypackage",
-            //     "Marijn Zwemmer/Editor ExtensionsUtilities");
-
             // Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
             Assets.ImportAsset("Editor Console Pro.unitypackage",
                 "FlyingWorm/Editor ExtensionsSystem");
 
             // Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
-            // Assets.ImportAsset("Selection History.unitypackage",
-            //     "Staggart Creations/Editor ExtensionsUtilities");
+            Assets.ImportAsset("Selection History.unitypackage",
+                "Staggart Creations/Editor ExtensionsUtilities");
 
             // Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
             Assets.ImportAsset("Color Studio.unitypackage",
                 "Kronnect/Editor ExtensionsPainting");
 
             // Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
-            // Assets.ImportAsset("Editor Auto Save.unitypackage",
-            //     "IntenseNation/Editor ExtensionsUtilities");
+            Assets.ImportAsset("Editor Auto Save.unitypackage",
+                "IntenseNation/Editor ExtensionsUtilities");
 
             // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
             Assets.ImportAsset(
@@ -90,6 +86,10 @@ namespace Jimothy.Setup
             // Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
             Assets.ImportAsset("Wingman - Your Inspectors Best Friend.unitypackage",
                 "Kyle Rhoads/Editor ExtensionsUtilities");
+            
+            // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
+            Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
+                "Julien Foucher/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]
@@ -129,14 +129,6 @@ namespace Jimothy.Setup
             // Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
             Assets.ImportAsset("Audio Preview Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsAudio");
-        }
-
-        [MenuItem("Tools/Setup/Specific Assets/Import Logwin", false, -800)]
-        public static void ImportLogwin()
-        {
-            // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
-            Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
-                "Julien Foucher/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Odin Inspector and Serializer", false, -999)]
