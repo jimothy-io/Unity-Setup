@@ -18,7 +18,7 @@ Features the following menu items:
     - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
     - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
     - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
-    - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
+    - Editor Auto Save (currently disabled due to how invasive it is in the editor): https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Logwin (currently disabled due to issues with the current version): https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
     - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
     - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
