@@ -43,8 +43,8 @@ namespace Jimothy.Setup
                 "Kronnect/Editor ExtensionsPainting");
 
             // Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
-            Assets.ImportAsset("Editor Auto Save.unitypackage",
-                "IntenseNation/Editor ExtensionsUtilities");
+            // Assets.ImportAsset("Editor Auto Save.unitypackage",
+            //     "IntenseNation/Editor ExtensionsUtilities");
 
             // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
             Assets.ImportAsset(
@@ -88,8 +88,12 @@ namespace Jimothy.Setup
                 "Kyle Rhoads/Editor ExtensionsUtilities");
             
             // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
-            Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
-                "Julien Foucher/Editor ExtensionsUtilities");
+            // Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
+            //     "Julien Foucher/Editor ExtensionsUtilities");
+            
+            // Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
+            Assets.ImportAsset("Advanced FPS Counter.unitypackage",
+                "Code Stage/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]

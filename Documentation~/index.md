@@ -19,7 +19,7 @@ Features the following menu items:
     - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
     - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
     - Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
-    - Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
+    - Logwin (currently disabled due to issues with the current version): https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
     - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
     - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
     - Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
@@ -30,6 +30,7 @@ Features the following menu items:
     - vTabs 2: https://assetstore.unity.com/packages/tools/utilities/vtabs-2-253396
     - vFavorites 2: https://assetstore.unity.com/packages/tools/utilities/vfavorites-2-263643
     - Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
+    - Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
 
 ---
 

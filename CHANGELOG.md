@@ -2,6 +2,14 @@
 
 ---
 
+## [1.1.5] - 2025-06-12
+### Minor asset adjustments
+- Removes Logwin from essential asset imports due to issues with the current version.
+- Removes Editor Auto Save from essential asset imports due to how invasive it is in the editor.
+- Adds Advanced FPS Counter to essential asset imports.
+
+---
+
 ## [1.1.4] - 2025-06-11
 ### Re-adds disabled assets to essential asset imports
 - Add the following assets to essential asset imports:
