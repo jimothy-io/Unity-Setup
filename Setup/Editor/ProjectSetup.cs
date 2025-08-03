@@ -9,7 +9,7 @@ namespace Jimothy.Setup
         [MenuItem("Tools/Setup/Create Folders")]
         public static void CreateFolders()
         {
-            Folders.Create("_Project", "Animations", "Scripts", "Input", "Ignore", "Imports",
+            Folders.Create("_Project", "Animations", "Code", "Input", "Ignore", "Imports",
                 "Art", "Prefabs");
             AssetDatabase.Refresh();
 

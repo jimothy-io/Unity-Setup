@@ -2,6 +2,12 @@
 
 ---
 
+## [1.1.7] - 2025-08-03
+### Minor folder structure adjustments
+- Use `Code` instead of `Scripts`.
+
+---
+
 ## [1.1.6] - 2025-08-03
 ### Minor asset adjustments
 - Switch to new Better Transform asset (old one was deprecated).
