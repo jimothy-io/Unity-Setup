@@ -1,7 +1,4 @@
-using System;
 using System.IO;
-using System.Net.Http;
-using System.Threading.Tasks;
 using UnityEditor;
 using UnityEngine;
 
@@ -46,9 +43,9 @@ namespace Jimothy.Setup
             // Assets.ImportAsset("Editor Auto Save.unitypackage",
             //     "IntenseNation/Editor ExtensionsUtilities");
 
-            // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-child-parent--276554
+            // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-parent-child--321300
             Assets.ImportAsset(
-                "Better Transform - Size Notes Global-Local workspace child parent transform.unitypackage",
+                "Better Transform - Size Notes Global-Local Workspace ParentChild Inspector.unitypackage",
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
 
             // UI Preview for Prefabs and Canvases: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906

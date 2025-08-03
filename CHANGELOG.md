@@ -2,11 +2,17 @@
 
 ---
 
+## [1.1.6] - 2025-08-03
+### Minor asset adjustments
+- Switch to new Better Transform asset (old one was deprecated).
+
+---
+
 ## [1.1.5] - 2025-06-12
 ### Minor asset adjustments
-- Removes Logwin from essential asset imports due to issues with the current version.
-- Removes Editor Auto Save from essential asset imports due to how invasive it is in the editor.
-- Adds Advanced FPS Counter to essential asset imports.
+- Remove Logwin from essential asset imports due to issues with the current version.
+- Remove Editor Auto Save from essential asset imports due to how invasive it is in the editor.
+- Add Advanced FPS Counter to essential asset imports.
 
 ---
 

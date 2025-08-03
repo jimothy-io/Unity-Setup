@@ -3,7 +3,7 @@
   "displayName": "jUnitySetup",
   "description": "Automates Unity project setup and configuration.",
   "unity": "6000.0",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "documentationUrl": "https://github.com/itsJimothy/Unity-Setup/blob/main/Documentation~/index.md",
   "author": {
     "name": "Jimothy",
