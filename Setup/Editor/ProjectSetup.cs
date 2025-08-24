@@ -208,8 +208,8 @@ namespace Jimothy.Setup
             Debug.Log("Fetched .gitignore.");
         }
 
-        [MenuItem("Tools/Setup/Fetch .gitattributes")]
-        public static async void FetchGitattributes()
+        [MenuItem("Tools/Setup/Fetch LFS .gitattributes")]
+        public static async void FetchLFSGitattributes()
         {
             const string url =
                 "https://gist.githubusercontent.com/itsJimothy/270a377f000448979d38b697116faf34/raw/14f23b26b7e14692fc2f6422cafb1410ce2a130d/.gitattributes";
@@ -220,16 +220,18 @@ namespace Jimothy.Setup
 
             Debug.Log("Fetched .gitattributes.");
         }
-
-        [MenuItem("Tools/Setup/All of the below", false, 99)]
-        public static void SetupProject()
+        
+        [MenuItem("Tools/Setup/Fetch non-LFS .gitattributes")]
+        public static async void FetchGitattributes()
         {
-            CreateFolders();
-            FetchGitignore();
-            FetchGitattributes();
-            ImportEssentialAssets();
-            InstallEssentialPackages();
-            RemoveJunkPackages();
+            const string url =
+                "https://gist.githubusercontent.com/jimothy-io/d99b35271b24b03b0643e6dcd6867e90/raw/3a16eade1c5b37adea838f3ecb944f83be9624da/.gitattributes";
+
+            var content = await Imports.FetchGist(url);
+
+            await File.WriteAllTextAsync(".gitattributes", content);
+
+            Debug.Log("Fetched .gitattributes.");
         }
     }
 }
