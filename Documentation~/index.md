@@ -57,8 +57,14 @@ Features the following menu items:
 
 ----
 
+- Tools/Setup/Fetch LFS .gitattributes
+    - Fetches my personal Unity LFS `.gitattributes` from a gist I keep updated. Assumes you're using the folder structure
+      from `Tools/Setup/Create Folders`.
+
+---
+
 - Tools/Setup/Fetch .gitattributes
-    - Fetches my personal Unity `.gitattributes` from a gist I keep updated. Assumes you're using the folder structure
+    - Fetches my personal Unity non-LFS `.gitattributes` from a gist I keep updated. Assumes you're using the folder structure
       from `Tools/Setup/Create Folders`.
 
 ---

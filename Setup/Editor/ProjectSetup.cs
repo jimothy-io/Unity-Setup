@@ -218,7 +218,7 @@ namespace Jimothy.Setup
 
             await File.WriteAllTextAsync(".gitattributes", content);
 
-            Debug.Log("Fetched .gitattributes.");
+            Debug.Log("Fetched LFS .gitattributes.");
         }
         
         [MenuItem("Tools/Setup/Fetch non-LFS .gitattributes")]
@@ -231,7 +231,7 @@ namespace Jimothy.Setup
 
             await File.WriteAllTextAsync(".gitattributes", content);
 
-            Debug.Log("Fetched .gitattributes.");
+            Debug.Log("Fetched non-LFS .gitattributes.");
         }
     }
 }

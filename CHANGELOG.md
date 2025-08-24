@@ -2,6 +2,14 @@
 
 ---
 
+## [1.1.7] - 2025-08-24
+### Adds non-LFS .gitattributes option and removes "fetch all of the above" method
+- Add "Fetch non-LFS .gitattributes" menu item.
+- Rename "Fetch .gitattributes" to "Fetch LFS .gitattributes".
+- Remove "all of the above" menu item.
+
+---
+
 ## [1.1.7] - 2025-08-03
 ### Minor folder structure adjustments
 - Use `Code` instead of `Scripts`.
