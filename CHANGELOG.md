@@ -3,6 +3,12 @@
 ---
 
 ## [1.1.7] - 2025-08-24
+### Fix gist URLs
+- Use gist URLs that point to the most recent version instead of specific ones.
+
+---
+
+## [1.1.7] - 2025-08-24
 ### Adds non-LFS .gitattributes option and removes "fetch all of the above" method
 - Add "Fetch non-LFS .gitattributes" menu item.
 - Rename "Fetch .gitattributes" to "Fetch LFS .gitattributes".

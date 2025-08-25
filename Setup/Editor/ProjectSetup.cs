@@ -199,7 +199,7 @@ namespace Jimothy.Setup
         public static async void FetchGitignore()
         {
             const string url =
-                "https://gist.githubusercontent.com/jimothy-io/06b39890e0b9e9676fcb8f6265424fa9/raw/3fddae40b78ffe49b96f94f6cc22005f2688ae25/.gitignore";
+                "https://gist.githubusercontent.com/jimothy-io/06b39890e0b9e9676fcb8f6265424fa9/raw/.gitignore";
 
             var content = await Imports.FetchGist(url);
 
@@ -212,7 +212,7 @@ namespace Jimothy.Setup
         public static async void FetchLFSGitattributes()
         {
             const string url =
-                "https://gist.githubusercontent.com/itsJimothy/270a377f000448979d38b697116faf34/raw/14f23b26b7e14692fc2f6422cafb1410ce2a130d/.gitattributes";
+                "https://gist.githubusercontent.com/itsJimothy/270a377f000448979d38b697116faf34/raw/.gitattributes";
 
             var content = await Imports.FetchGist(url);
 
@@ -225,7 +225,7 @@ namespace Jimothy.Setup
         public static async void FetchGitattributes()
         {
             const string url =
-                "https://gist.githubusercontent.com/jimothy-io/d99b35271b24b03b0643e6dcd6867e90/raw/3a16eade1c5b37adea838f3ecb944f83be9624da/.gitattributes";
+                "https://gist.githubusercontent.com/jimothy-io/d99b35271b24b03b0643e6dcd6867e90/raw/.gitattributes";
 
             var content = await Imports.FetchGist(url);
 
