@@ -91,6 +91,10 @@ namespace Jimothy.Setup
             // Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
             Assets.ImportAsset("Advanced FPS Counter.unitypackage",
                 "Code Stage/Editor ExtensionsUtilities");
+            
+            // ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
+            Assets.ImportAsset("ALINE.unitypackage",
+                "Aron Granberg/ScriptingGUI");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]
