@@ -212,7 +212,7 @@ namespace Jimothy.Setup
         public static async void FetchLFSGitattributes()
         {
             const string url =
-                "https://gist.githubusercontent.com/itsJimothy/270a377f000448979d38b697116faf34/raw/.gitattributes";
+                "https://gist.githubusercontent.com/jimothy-io/270a377f000448979d38b697116faf34/raw/.gitattributes";
 
             var content = await Imports.FetchGist(url);
 
