@@ -31,6 +31,7 @@ Features the following menu items:
     - vFavorites 2: https://assetstore.unity.com/packages/tools/utilities/vfavorites-2-263643
     - Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
     - Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
+    - ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
 
 ---
 

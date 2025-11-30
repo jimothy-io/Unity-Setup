@@ -2,14 +2,21 @@
 
 ---
 
+## [1.2.3] - 2025-11-30
+### Minor fixes and essential assets addition
+- Fix broken gist URL.
+- Add ALINE to essential asset imports.
+
+---
+
 ## [1.2.2] - 2025-08-25
-### Fix namespace omission
+### Namespace omission fix
 - Add `Folders` to the correct namespace
 
 ---
 
 ## [1.2.1] - 2025-08-25
-### Fix gist URLs
+### Gist URLs fixes
 - Use gist URLs that point to the most recent version instead of specific ones.
 
 ---
