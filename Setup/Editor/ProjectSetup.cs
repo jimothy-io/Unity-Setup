@@ -95,6 +95,14 @@ namespace Jimothy.Setup
             // ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
             Assets.ImportAsset("ALINE.unitypackage",
                 "Aron Granberg/ScriptingGUI");
+            
+            // Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
+            Assets.ImportAsset("Scene View Bookmark Tool.unitypackage",
+                "Warped Imagination/Editor ExtensionsUtilities");
+            
+            // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
+            Assets.ImportAsset("Scene Selection Tool.unitypackage",
+                "Warped Imagination/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]

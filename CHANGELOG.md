@@ -2,6 +2,13 @@
 
 ---
 
+## [1.2.4] - 2025-12-18
+### Adds two essential asset imports
+- Add Scene Selection Tool to essential asset imports.
+- Add Scene View Bookmark Tool to essential asset imports.
+
+---
+
 ## [1.2.3] - 2025-11-30
 ### Minor fixes and essential assets addition
 - Fix broken gist URL.

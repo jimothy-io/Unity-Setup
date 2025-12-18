@@ -32,6 +32,8 @@ Features the following menu items:
     - Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
     - Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
     - ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
+    - Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
+    - Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
 
 ---
 
