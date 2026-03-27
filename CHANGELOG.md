@@ -2,6 +2,12 @@
 
 ---
 
+## [1.2.5] - 2026-03-27
+### Adds essential asset import
+- Add Better Mesh to essential asset imports.
+
+---
+
 ## [1.2.4] - 2025-12-18
 ### Adds two essential asset imports
 - Add Scene Selection Tool to essential asset imports.

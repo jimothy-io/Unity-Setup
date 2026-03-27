@@ -34,6 +34,7 @@ Features the following menu items:
     - ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
     - Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
     - Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
+    - Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
 
 ---
 

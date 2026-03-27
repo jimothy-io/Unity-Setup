@@ -102,7 +102,11 @@ namespace Jimothy.Setup
             
             // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
             Assets.ImportAsset("Scene Selection Tool.unitypackage",
-                "Warped Imagination/Editor ExtensionsUtilities");
+                "Warped Imagination/Editor ExtensionsUtilities");            
+            
+            // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
+            Assets.ImportAsset("Better Mesh - Mesh Preview Full-insight at a glance.unitypackage",
+                "Tiny Giant Studio/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]
