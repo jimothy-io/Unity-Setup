@@ -22,7 +22,6 @@ Features the following menu items:
     - Logwin (currently disabled due to issues with the current version): https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
     - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-parent-child--321300
     - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
-    - Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
     - vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
     - vFolders 2: https://assetstore.unity.com/packages/tools/utilities/vfolders-2-255470
     - vInspector 2: https://assetstore.unity.com/packages/tools/utilities/vinspector-2-252297

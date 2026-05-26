@@ -52,10 +52,6 @@ namespace Jimothy.Setup
             Assets.ImportAsset("UI Preview for Prefabs and Canvases.unitypackage",
                 "KAMGAM/Editor ExtensionsUtilities");
 
-            // Better Hierarchy: https://assetstore.unity.com/packages/tools/utilities/better-hierarchy-272963?aid=1101lw3sv
-            Assets.ImportAsset("Better Hierarchy.unitypackage",
-                "Toaster Head/Editor ExtensionsUtilities");
-
             // vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
             Assets.ImportAsset("vRuler.unitypackage",
                 "kubacho lab/Editor ExtensionsUtilities");
@@ -83,27 +79,27 @@ namespace Jimothy.Setup
             // Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
             Assets.ImportAsset("Wingman - Your Inspectors Best Friend.unitypackage",
                 "Kyle Rhoads/Editor ExtensionsUtilities");
-            
+
             // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
             // Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",
             //     "Julien Foucher/Editor ExtensionsUtilities");
-            
+
             // Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
             Assets.ImportAsset("Advanced FPS Counter.unitypackage",
                 "Code Stage/Editor ExtensionsUtilities");
-            
+
             // ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
             Assets.ImportAsset("ALINE.unitypackage",
                 "Aron Granberg/ScriptingGUI");
-            
+
             // Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
             Assets.ImportAsset("Scene View Bookmark Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsUtilities");
-            
+
             // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
             Assets.ImportAsset("Scene Selection Tool.unitypackage",
-                "Warped Imagination/Editor ExtensionsUtilities");            
-            
+                "Warped Imagination/Editor ExtensionsUtilities");
+
             // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
             Assets.ImportAsset("Better Mesh - Mesh Preview Full-insight at a glance.unitypackage",
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
@@ -236,7 +232,7 @@ namespace Jimothy.Setup
 
             Debug.Log("Fetched LFS .gitattributes.");
         }
-        
+
         [MenuItem("Tools/Setup/Fetch non-LFS .gitattributes")]
         public static async void FetchGitattributes()
         {
