@@ -35,14 +35,6 @@ namespace Jimothy.Setup
             Assets.ImportAsset("Selection History.unitypackage",
                 "Staggart Creations/Editor ExtensionsUtilities");
 
-            // Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
-            Assets.ImportAsset("Color Studio.unitypackage",
-                "Kronnect/Editor ExtensionsPainting");
-
-            // Editor Auto Save: https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
-            // Assets.ImportAsset("Editor Auto Save.unitypackage",
-            //     "IntenseNation/Editor ExtensionsUtilities");
-
             // Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-parent-child--321300
             Assets.ImportAsset(
                 "Better Transform - Size Notes Global-Local Workspace ParentChild Inspector.unitypackage",
@@ -88,10 +80,6 @@ namespace Jimothy.Setup
             Assets.ImportAsset("Advanced FPS Counter.unitypackage",
                 "Code Stage/Editor ExtensionsUtilities");
 
-            // ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
-            Assets.ImportAsset("ALINE.unitypackage",
-                "Aron Granberg/ScriptingGUI");
-
             // Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
             Assets.ImportAsset("Scene View Bookmark Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsUtilities");
@@ -100,7 +88,7 @@ namespace Jimothy.Setup
             Assets.ImportAsset("Scene Selection Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsUtilities");
 
-            // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
+            // Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
             Assets.ImportAsset("Better Mesh - Mesh Preview Full-insight at a glance.unitypackage",
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
         }
@@ -128,44 +116,12 @@ namespace Jimothy.Setup
                 "Kronnect/ShadersFullscreen Camera Effects");
         }
 
-        [MenuItem("Tools/Setup/Specific Assets/Import Asset Inventory 2", false, -600)]
-        public static void ImportAssetInventory()
-        {
-            // Asset Inventory 2: https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
-            Assets.ImportAsset("Asset Inventory 2.unitypackage",
-                "Impossible Robert/Editor ExtensionsUtilities");
-        }
-
         [MenuItem("Tools/Setup/Specific Assets/Import Audio Preview Tool", false, -700)]
         public static void ImportAudioPreviewTool()
         {
             // Audio Preview Tool: https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446
             Assets.ImportAsset("Audio Preview Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsAudio");
-        }
-
-        [MenuItem("Tools/Setup/Specific Assets/Import Odin Inspector and Serializer", false, -999)]
-        public static void ImportOdin()
-        {
-            // Odin Inspector
-            Assets.ImportAsset("Odin Inspector and Serializer.unitypackage",
-                "Sirenix/Editor ExtensionsSystem");
-        }
-
-        [MenuItem("Tools/Setup/Specific Assets/Import Odin Validator", false, -998)]
-        public static void ImportOdinValidator()
-        {
-            // Odin Inspector
-            Assets.ImportAsset("Odin Validator.unitypackage",
-                "Sirenix/Editor ExtensionsUtilities");
-        }
-
-        [MenuItem("Tools/Setup/Specific Assets/Import DOTween Pro", false, -990)]
-        public static void ImportDOTweenPro()
-        {
-            // DOTween Pro
-            Assets.ImportAsset("DOTween Pro.unitypackage",
-                "Demigiant/Editor ExtensionsVisual Scripting");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Animancer Pro", false, -980)]

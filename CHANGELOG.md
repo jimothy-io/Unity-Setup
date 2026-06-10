@@ -2,6 +2,12 @@
 
 ---
 
+## [1.3.0] - 2026-06-10
+### Massive cleanup
+- Removes a bunch of outdated, rarely, and situationally used assets. See documentation for remaining packages.
+
+---
+
 ## [1.2.6] - 2026-05-26
 ### Cleans up essential asset imports
 - Removes 'Better Hierarchy' from essential asset imports.

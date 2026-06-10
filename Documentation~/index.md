@@ -16,9 +16,7 @@ Features the following menu items:
 - Tools/Setup/Import Essential Assets
 - Imports the following assets (make sure you own them and have downloaded them downloaded to your system):
     - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
-    - Color Studio: https://assetstore.unity.com/packages/tools/painting/color-studio-151892
     - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
-    - Editor Auto Save (currently disabled due to how invasive it is in the editor): https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445
     - Logwin (currently disabled due to issues with the current version): https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
     - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-parent-child--321300
     - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
@@ -30,7 +28,6 @@ Features the following menu items:
     - vFavorites 2: https://assetstore.unity.com/packages/tools/utilities/vfavorites-2-263643
     - Wingman: https://assetstore.unity.com/packages/tools/utilities/wingman-your-inspector-s-best-friend-303181
     - Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
-    - ALINE: https://assetstore.unity.com/packages/tools/gui/aline-162772
     - Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
     - Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
     - Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
@@ -72,22 +69,6 @@ Features the following menu items:
 
 ---
 
-- Tools/Setup/Specific Assets/Import Odin Inspector and Serializer
-    - https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
-
----
-
-- Tools/Setup/Specific Assets/Import Odin Validator
-    - Requires Odin Inspector and Serializer.
-    - https://assetstore.unity.com/packages/tools/utilities/odin-validator-227861
-
----
-
-- Tools/Setup/Specific Assets/Import DOTween Pro
-    - https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
-
----
-
 - Tools/Setup/Specific Assets/Import Animancer Pro
     - https://assetstore.unity.com/packages/tools/animation/animancer-pro-293522
 
@@ -95,11 +76,6 @@ Features the following menu items:
 
 - Tools/Setup/Specific Assets/Import Grabbit
     - https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
-
----
-
-- Tools/Setup/Specific Assets/Import Asset Inventory 2
-    - https://assetstore.unity.com/packages/tools/utilities/asset-inventory-2-275893
 
 ---
 
