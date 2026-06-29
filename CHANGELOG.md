@@ -2,6 +2,13 @@
 
 ---
 
+## [1.3.1] - 2026-06-29
+### Removes non-compliant assets
+- Removes UIPreview from essential asset imports.
+- Removes VRuler from essential asset imports.
+
+---
+
 ## [1.3.0] - 2026-06-10
 ### Massive cleanup
 - Removes a bunch of outdated, rarely, and situationally used assets. See documentation for remaining packages.

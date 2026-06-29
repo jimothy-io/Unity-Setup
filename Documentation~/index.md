@@ -17,10 +17,10 @@ Features the following menu items:
 - Imports the following assets (make sure you own them and have downloaded them downloaded to your system):
     - Editor Console Pro: https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
     - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
-    - Logwin (currently disabled due to issues with the current version): https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
     - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-parent-child--321300
-    - UI Preview: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
-    - vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
+    - Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
+    - UI Preview (currently disabled due incompatibility with EntityId API): https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
+    - vRuler (currently disabled due incompatibility with EntityId API): https://assetstore.unity.com/packages/tools/utilities/vruler-249760
     - vFolders 2: https://assetstore.unity.com/packages/tools/utilities/vfolders-2-255470
     - vInspector 2: https://assetstore.unity.com/packages/tools/utilities/vinspector-2-252297
     - vHierarchy 2: https://assetstore.unity.com/packages/tools/utilities/vhierarchy-2-253397
@@ -30,8 +30,7 @@ Features the following menu items:
     - Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
     - Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
     - Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
-    - Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
-
+    
 ---
 
 - Tools/Setup/Install Essential Packages
