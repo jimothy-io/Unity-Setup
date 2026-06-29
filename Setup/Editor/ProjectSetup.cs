@@ -40,13 +40,19 @@ namespace Jimothy.Setup
                 "Better Transform - Size Notes Global-Local Workspace ParentChild Inspector.unitypackage",
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
 
-            // UI Preview for Prefabs and Canvases: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
-            Assets.ImportAsset("UI Preview for Prefabs and Canvases.unitypackage",
-                "KAMGAM/Editor ExtensionsUtilities");
+            // Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
+            Assets.ImportAsset("Better Mesh - Mesh Preview Full-insight at a glance.unitypackage",
+                "Tiny Giant Studio/Editor ExtensionsUtilities");
 
+            // Disabled: Doesn't use EntityId API as of 260629
+            // UI Preview for Prefabs and Canvases: https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
+            // Assets.ImportAsset("UI Preview for Prefabs and Canvases.unitypackage",
+                // "KAMGAM/Editor ExtensionsUtilities");
+
+            // Disabled: Doesn't use EntityId API as of 260629
             // vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
-            Assets.ImportAsset("vRuler.unitypackage",
-                "kubacho lab/Editor ExtensionsUtilities");
+            // Assets.ImportAsset("vRuler.unitypackage",
+            //     "kubacho lab/Editor ExtensionsUtilities");
 
             // vFolders 2: https://assetstore.unity.com/packages/tools/utilities/vfolders-2-255470
             Assets.ImportAsset("vFolders 2.unitypackage",
@@ -87,10 +93,6 @@ namespace Jimothy.Setup
             // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
             Assets.ImportAsset("Scene Selection Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsUtilities");
-
-            // Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
-            Assets.ImportAsset("Better Mesh - Mesh Preview Full-insight at a glance.unitypackage",
-                "Tiny Giant Studio/Editor ExtensionsUtilities");
         }
 
         [MenuItem("Tools/Setup/Specific Assets/Import Final IK", false, -900)]
