@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- Re-add vRuler to essential asset imports (updated to comply with EntityId API).
+
 ---
 
 ## [1.3.1] - 2026-06-29
