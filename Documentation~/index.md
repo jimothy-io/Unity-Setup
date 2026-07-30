@@ -19,8 +19,7 @@ Features the following menu items:
     - Selection History: https://assetstore.unity.com/packages/tools/utilities/selection-history-184204
     - Better Transform: https://assetstore.unity.com/packages/tools/utilities/better-transform-size-notes-global-local-workspace-parent-child--321300
     - Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
-    - UI Preview (currently disabled due incompatibility with EntityId API): https://assetstore.unity.com/packages/tools/utilities/ui-preview-for-prefabs-and-canvases-226906
-    - vRuler (currently disabled due incompatibility with EntityId API): https://assetstore.unity.com/packages/tools/utilities/vruler-249760
+    - vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
     - vFolders 2: https://assetstore.unity.com/packages/tools/utilities/vfolders-2-255470
     - vInspector 2: https://assetstore.unity.com/packages/tools/utilities/vinspector-2-252297
     - vHierarchy 2: https://assetstore.unity.com/packages/tools/utilities/vhierarchy-2-253397
