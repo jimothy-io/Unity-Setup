@@ -13,8 +13,8 @@
 
 ## [1.3.1] - 2026-06-29
 ### Removes non-compliant assets
-- Removes UIPreview from essential asset imports.
-- Removes VRuler from essential asset imports.
+- Removes `UIPreview` from essential asset imports.
+- Removes `VRuler` from essential asset imports.
 
 ---
 
@@ -26,27 +26,27 @@
 
 ## [1.2.6] - 2026-05-26
 ### Cleans up essential asset imports
-- Removes 'Better Hierarchy' from essential asset imports.
+- Removes `Better Hierarchy` from essential asset imports.
 
 ---
 
 ## [1.2.5] - 2026-03-27
 ### Adds essential asset import
-- Adds Better Mesh to essential asset imports.
+- Adds `Better Mesh` to essential asset imports.
 
 ---
 
 ## [1.2.4] - 2025-12-18
 ### Adds two essential asset imports
-- Adds Scene Selection Tool to essential asset imports.
-- Adds Scene View Bookmark Tool to essential asset imports.
+- Adds `Scene Selection Tool` to essential asset imports.
+- Adds `Scene View Bookmark Tool` to essential asset imports.
 
 ---
 
 ## [1.2.3] - 2025-11-30
 ### Minor fixes and essential assets addition
 - Fixes broken gist URL.
-- Adds ALINE to essential asset imports.
+- Adds `ALINE` to essential asset imports.
 
 ---
 
@@ -78,33 +78,33 @@
 
 ## [1.1.6] - 2025-08-03
 ### Minor asset adjustments
-- Switches to new Better Transform asset (old one was deprecated).
+- Switches to new `Better Transform` asset (old one was deprecated).
 
 ---
 
 ## [1.1.5] - 2025-06-12
 ### Minor asset adjustments
-- Removes Logwin from essential asset imports due to issues with the current version.
-- Removes Editor Auto Save from essential asset imports due to how invasive it is in the editor.
-- Adds Advanced FPS Counter to essential asset imports.
+- Removes `Logwin` from essential asset imports due to issues with the current version.
+- Removes `Editor Auto Save` from essential asset imports due to how invasive it is in the editor.
+- Adds `Advanced FPS Counter` to essential asset imports.
 
 ---
 
 ## [1.1.4] - 2025-06-11
 ### Re-adds disabled assets to essential asset imports
 - Adds the following assets to essential asset imports:
-  - Selection History
-  - Logwin
-  - Editor Auto Save
+  - `Selection History`
+  - `Logwin`
+  - `Editor Auto Save`
 - Removes the following assets from specific asset imports:
-  - Logwin
+  - `Logwin`
 
 ---
 
 ## [1.1.3] - 2025-06-09
 ### Adds asset to essential asset imports
 - Adds the following asset to essential asset imports:
-  - Wingman
+  - `Wingman`
 
 ---
 
@@ -130,67 +130,67 @@
 ## [1.0.16] - 2025-04-30
 ### Adds asset to specific asset imports
 - Adds the following asset to specific asset imports:
-  - UMotion Pro
+  - `UMotion Pro`
 
 ---
 
 ## [1.0.15] - 2025-04-26
 ### Re-adds removed asset to essential asset imports
 - Adds the following asset to essential asset imports:
-  - Better Hierarchy
+  - `Better Hierarchy`
 
 ---
 
 ## [1.0.14] - 2025-04-24
 ### Adds and removes assets from essential asset imports
 - Adds the following assets to essential asset imports:
-  - vRuler
-  - vFolders 2
-  - vInspector 2
-  - vHierarchy 2
-  - vTabs 2
-  - vFavorites 2
+  - `vRuler`
+  - `vFolders 2`
+  - `vInspector 2`
+  - `vHierarchy 2`
+  - `vTabs 2`
+  - `vFavorites 2`
 - Removes the following asset from essential asset imports:
-  - Better Hierarchy
+  - `Better Hierarchy`
 
 ---
 
 ## [1.0.13] - 2025-01-20
 ### Adds assets to specific and essential asset imports
 - Adds the following asset to specific asset imports:
-  - Final IK
+  - `Final IK`
 - Adds the following asset to essential asset imports:
-  - UI Preview
+  - `UI Preview`
 
 ---
 
 ## [1.0.12] - 2024-12-22
 ### Adds Beautify 3 to specific asset imports
 - Adds the following asset to specific asset imports:
-  - Beautify 3
+  - `Beautify 3`
 
 ---
 
 ## [1.0.11] - 2024-12-20
 ### Reorganizes asset imports
 - Moves the following assets from essential to specific imports:
-  - Logwin (using deprecated API)
-  - Audio Preview Tool
-  - Asset Inventory 2
+  - `Logwin` (using deprecated API)
+  - `Audio Preview Tool`
+  - `Asset Inventory 2`
 
 ---
 
 ## [1.0.10] - 2024-12-18
 ### Adds asset to essential asset imports
 - Adds the following asset to essential asset imports:
-    - Better Transform
+    - `Better Transform`
 
 ---
 
 ## [1.0.9] - 2024-12-08
 ### Adds asset to essential asset imports
 - Adds the following asset to essential asset imports:
-  - Logwin
+  - `Logwin`
 
 ---
 
@@ -204,17 +204,17 @@
 ## [1.0.7] - 2024-12-06
 ### Removes asset from essential asset imports, moves asset to specific asset imports
 - Removes the following asset from essential asset imports:
-    - Selection History
+    - `Selection History`
 - Moves the following asset to specific asset imports:
-    - Grabbit
+    - `Grabbit`
 
 ---
 
 ## [1.0.6] - 2024-12-02
 ### Adds assets to essential asset imports
 - Adds the following asset to specific asset imports:
-    - Grabbit
-    - Asset Inventory 2
+    - `Grabbit`
+    - `Asset Inventory 2`
 
 ---
 
@@ -228,21 +228,21 @@
 ### Adds asset to specific asset imports
 - Fixes duplicate menu item warning.
 - Adds the following asset to specific asset imports:
-  - Odin Validator
+  - `Odin Validator`
 
 ---
 
 ## [1.0.3] - 2024-08-18
 ### Adds asset to specific asset imports
 - Adds the following asset to specific asset imports:
-  - Animancer Pro
+  - `Animancer Pro`
 
 ---
 
 ## [1.0.2] - 2024-08-18
 ### Adds package to essential packages
 - Adds the following package to essential packages:
-  - Eflatun.SceneReference
+  - `Eflatun.SceneReference`
 
 ---
 
