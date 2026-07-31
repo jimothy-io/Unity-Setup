@@ -1,6 +1,13 @@
 ## [Unreleased]
 
-- Re-add vRuler to essential asset imports (updated to comply with EntityId API).
+---
+
+## [1.3.2] - 2027-07-31
+### Adds essential asset imports
+- Re-adds `vRuler` to essential asset imports (updated to comply with EntityId API).
+- Adds `Ultimate Preview 2 - Pro Edition` to essential asset imports.
+- Adds `Ultimate Preview 2 - Animator Add-on` to essential asset imports.
+- Adds `Ultimate Thumbnails` to essential asset imports.
 
 ---
 

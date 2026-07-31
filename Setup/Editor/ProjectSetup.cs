@@ -43,7 +43,7 @@ namespace Jimothy.Setup
             // Better Mesh: https://assetstore.unity.com/packages/tools/utilities/better-mesh-mesh-preview-full-insight-at-a-glance-321364
             Assets.ImportAsset("Better Mesh - Mesh Preview Full-insight at a glance.unitypackage",
                 "Tiny Giant Studio/Editor ExtensionsUtilities");
-                
+
             // vRuler: https://assetstore.unity.com/packages/tools/utilities/vruler-249760
             Assets.ImportAsset("vRuler.unitypackage",
                 "kubacho lab/Editor ExtensionsUtilities");
@@ -83,6 +83,18 @@ namespace Jimothy.Setup
             // Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
             Assets.ImportAsset("Scene Selection Tool.unitypackage",
                 "Warped Imagination/Editor ExtensionsUtilities");
+
+            // Ultimate Preview 2 - Pro Edition
+            Assets.ImportAsset("Ultimate Preview 2 Pro Edition.unitypackage",
+                "Voxel Labs/Editor ExtensionsUtilities");
+
+            // Ultimate Preview 2 - Animator Add-on: https://assetstore.unity.com/packages/tools/utilities/ultimate-preview-2-animator-add-on-365886
+            Assets.ImportAsset("Ultimate Preview 2 Animator Add-on.unitypackage",
+                "Voxel Labs/Editor ExtensionsUtilities");
+
+            // Ultimate Thumbnails: https://assetstore.unity.com/packages/tools/utilities/ultimate-thumbnails-instant-asset-previews-340970
+            Assets.ImportAsset("Ultimate Thumbnails Instant Asset Previews.unitypackage",
+                "Voxel Labs/Editor ExtensionsUtilities");
 
             // Logwin: https://assetstore.unity.com/packages/tools/utilities/logwin-log-debug-values-tracker-149558
             // Assets.ImportAsset("LogwinLog - Debug Values Tracker.unitypackage",

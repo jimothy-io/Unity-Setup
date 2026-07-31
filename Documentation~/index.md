@@ -29,7 +29,10 @@ Features the following menu items:
     - Advanced FPS Counter: https://assetstore.unity.com/packages/tools/utilities/advanced-fps-counter-14656#reviews
     - Scene Selection Tool: https://assetstore.unity.com/packages/tools/utilities/scene-selection-tool-244501
     - Scene View Bookmark Tool: https://assetstore.unity.com/packages/tools/utilities/scene-view-bookmark-tool-244521
-    
+    - Ultimate Preview 2 - Pro Edition: https://assetstore.unity.com/packages/tools/utilities/ultimate-preview-2-pro-edition-340974
+    - Ultimate Preview 2 - Animator Add-on: https://assetstore.unity.com/packages/tools/utilities/ultimate-preview-2-animator-add-on-365886
+    - Ultimate Thumbnails: https://assetstore.unity.com/packages/tools/utilities/ultimate-thumbnails-instant-asset-previews-340970
+
 ---
 
 - Tools/Setup/Install Essential Packages
