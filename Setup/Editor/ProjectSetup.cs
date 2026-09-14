@@ -140,12 +140,12 @@ namespace Jimothy.Setup
                 "Kybernetik/ScriptingAnimation");
         }
 
-        [MenuItem("Tools/Setup/Specific Assets/Grabbit", false, -900)]
-        public static void ImportGrabbit()
+        [MenuItem("Tools/Setup/Specific Assets/Grabbit 2", false, -900)]
+        public static void ImportGrabbit2()
         {
-            // Grabbit: https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
-            Assets.ImportAsset("Grabbit - Editor Physics Transforms.unitypackage",
-                "Jungle/Editor ExtensionsUtilities");
+            // Grabbit 2: https://assetstore.unity.com/packages/tools/level-design/grabbit-2-physics-placement-collider-generation-386736
+            Assets.ImportAsset("Grabbit 2 - Physics Placement Collider Generation.unitypackage",
+                "Jungle/Editor ExtensionsDesign");
         }
 
         [MenuItem("Tools/Setup/Install Essential Packages")]

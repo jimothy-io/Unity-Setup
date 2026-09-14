@@ -75,8 +75,8 @@ Features the following menu items:
 
 ---
 
-- Tools/Setup/Specific Assets/Import Grabbit
-    - https://assetstore.unity.com/packages/tools/utilities/grabbit-editor-physics-transforms-182328
+- Tools/Setup/Specific Assets/Import Grabbit 2
+    - https://assetstore.unity.com/packages/tools/level-design/grabbit-2-physics-placement-collider-generation-386736
 
 ---
 

@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- Upgrade Grabbit -> Grabbit 2.
+
 ---
 
 ## [1.3.2] - 2027-07-31
