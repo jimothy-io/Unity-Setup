@@ -1,5 +1,5 @@
 using System.IO;
-using UnityEditor;
+using UnityEditor.AssetPackage;
 
 namespace Jimothy.Setup
 {
@@ -10,8 +10,8 @@ namespace Jimothy.Setup
             string basePath =
                 System.Environment.GetFolderPath(System.Environment.SpecialFolder.ApplicationData);
             string assetsFolder = Path.Combine(basePath, "Unity/Asset Store-5.x");
-
-            AssetDatabase.ImportPackage(Path.Combine(assetsFolder, folder, asset), false);
+            
+            Package.Import(Path.Combine(assetsFolder, folder, asset), false);
         }
     }
 }

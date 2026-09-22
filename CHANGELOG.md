@@ -1,6 +1,7 @@
 ## [Unreleased]
 
 - Upgrade Grabbit -> Grabbit 2.
+- Update obsolete package import API call.
 
 ---
 
